@@ -5,3 +5,6 @@ Account Management System project is written in Python. The project file contain
 
 ## Updates
 The last feature is about searching. Simply by entering any details, a user can search for the accounts. This GUI based Account Management system provides the simplest management of Account details. In short, this project is totally based on CRUD. There’s an external database connection file used in this mini project, in order to store user’s data permanently. In order to run the project, you must have installed Python, on your PC. This is a simple GUI Based system, specially written for the beginners.
+
+## License
+© 2019 [T.Y.Brains](https://www.tybrains.com/). All Rights Reserved | by Developed [Momen Shili](https://www.tybrains.com/momen%20shili/) 
